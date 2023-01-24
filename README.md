@@ -7,4 +7,4 @@ Este site trata-se de uma plataforma de social-linking e redes sociais.
 * CSS
 * GitHub Pages
 
-![alt text](https://github.com/LucasMSilva2/social-linking/blob/main/index.jpg?raw=true)
+![alt text](https://github.com/LucasMSilva2/social-linking/tree/main/image/index.jpg?raw=true)
