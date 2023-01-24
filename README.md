@@ -1,6 +1,6 @@
 # Social Linking
 
-Este site trata-se de uma plataforma de social-linking e redes sociais.
+Este [site](https://lucasmsilva2.github.io/me/) trata-se de uma plataforma de social-linking e redes sociais, através dele você pode <br />me encontrar nas redes vizinhas.
 
 ## Tecnologias usadas
 * HTML
